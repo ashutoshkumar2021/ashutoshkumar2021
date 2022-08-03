@@ -1,4 +1,5 @@
 # Hi there, I'm Ashutosh!
+<h3 align="center">Passionate in learning new technologies having interest in Frontend Development and Problem Solving </h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar2021&show_icons=true&theme=radical"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkumar2021&theme=tokyonight" />
 
