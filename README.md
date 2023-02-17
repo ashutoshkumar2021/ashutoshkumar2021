@@ -2,6 +2,7 @@
 <h3 align="center">Passionate in learning new technologies having interest in Full Stack Development and Problem Solving </h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar2021&show_icons=true&theme=radical"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkumar2021&theme=tokyonight" />
+<a> <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar2021&show_icons=true&theme=gotham" alt="ashutoshkumar2021" /><a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chakshu061&show_icons=true&theme=gotham" alt="ashutoshkumar2021" /></a> <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkumar2021&theme=gotham)
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
