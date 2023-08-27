@@ -2,7 +2,8 @@
 <h3 align="center">Passionate in learning new technologies having interest in Full Stack Development and Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkumar2021&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkumar2021" /> </p>
-![Uploading image.png…]()
+
+![Uploading 71iY3g-qaUL._AC_UF1000,1000_QL80_.jpg…]()
 
 
 <h3 align="left">Connect with me:</h3>
