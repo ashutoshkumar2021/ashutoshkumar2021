@@ -2,8 +2,7 @@
 <h3 align="center">Passionate in learning new technologies having interest in Full Stack Development and Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshkumar2021&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshkumar2021" /> </p>
-
-![360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq](https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/21e39c55-4206-4279-8f61-b79fdc4fb8da)
+![360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq (1)](https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/04d3d60f-dc94-4272-9763-bc2abcf9eedd)
 
 
 
