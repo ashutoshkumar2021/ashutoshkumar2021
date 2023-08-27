@@ -5,11 +5,6 @@
 ![360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq (1)](https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/c73cd783-d243-4f63-88bb-271405f4845a)
 
 
-(https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/04d3d60f-dc94-4272-9763-bc2abcf9eedd)
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashutoshkumar2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshkumar2020" height="30" width="40" /></a>
 </p>
