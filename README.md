@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ashutosh!</h1>
 <p align="center">
-  <img src="![Blue Geometric Technology LinkedIn Banner](https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/73d6f930-aee7-4a75-9c77-aa6b22961583)"
+  <img src="https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/73d6f930-aee7-4a75-9c77-aa6b22961583"
  alt="Banner Image" width="100%">
 </p>
 
