@@ -1,9 +1,4 @@
-body {
-    background-color: #000000;
-    color: #FFFFFF;
-    padding: 20px;
-}
-<div style="background-color: #000000; color: #FFFFFF; padding: 20px;">
+
 <h1 align="center">Hi there, I'm Ashutosh!</h1>
 <p align="center">
   <img src="https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/73d6f930-aee7-4a75-9c77-aa6b22961583"
