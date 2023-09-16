@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ashutosh!</h1>
-![Blue Geometric Technology LinkedIn Banner](https://github.com/ashutoshkumar2021/ashutoshkumar2021/assets/80633589/16042f18-5e93-47e2-9948-2d102788dd16)
+![Alt text](https://www.canva.com/design/DAFun2cJ14A/0KEyAotKSx1Zr8tYqDmzVA/edit?utm_content=DAFun2cJ14A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="center">Passionate in learning new technologies having interest in Full Stack Development and Problem Solving </h3>
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar2021&show_icons=true&theme=radical"/> -->
