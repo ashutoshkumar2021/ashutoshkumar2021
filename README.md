@@ -1,3 +1,8 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 20px;
+}
 <div style="background-color: #000000; color: #FFFFFF; padding: 20px;">
 <h1 align="center">Hi there, I'm Ashutosh!</h1>
 <p align="center">
