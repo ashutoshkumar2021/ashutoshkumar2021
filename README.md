@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Ashutosh!</h1>
-![Alt text](https://www.canva.com/design/DAFun2cJ14A/0KEyAotKSx1Zr8tYqDmzVA/edit?utm_content=DAFun2cJ14A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<p align="center">
+  <img src="https://www.canva.com/design/DAFun2cJ14A/0KEyAotKSx1Zr8tYqDmzVA/edit?utm_content=DAFun2cJ14A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner Image" width="100%">
+</p>
+
 
 <h3 align="center">Passionate in learning new technologies having interest in Full Stack Development and Problem Solving </h3>
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ashutoshkumar2021&show_icons=true&theme=radical"/> -->
