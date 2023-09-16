@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ashutosh!</h1>
 <p align="center">
-  <img src="https://www.canva.com/design/DAFun2cJ14A/0KEyAotKSx1Zr8tYqDmzVA/edit?utm_content=DAFun2cJ14A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner Image" width="100%">
+  <img src="https://www.canva.com/templates/EAFHlPbzjjU-blue-geometric-technology-linkedin-banner/" alt="Banner Image" width="100%">
 </p>
 
 
